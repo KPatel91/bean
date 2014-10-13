@@ -1,0 +1,46 @@
+.square
+{
+	display: inline-block;
+	margin-top: top;
+	height: 210px;
+	width: 210px;
+	background-color: red;
+	border: 1px solid black;
+	border-radius: 5%
+}
+.inner
+{
+	position: inline;
+	height: 100px;
+	width: 100px;
+	background-color: red;
+	border: 1px solid black;
+	border-radius: 5%;
+	float: left;
+}
+
+.right{
+	float: right;
+}
+
+.bottom
+{
+	margin-top: 8px
+}
+
+.blue
+{
+	background-color: blue
+}
+
+.wrapper{
+	width:70%;
+	margin:auto;
+ background-color:black;
+}
+.container{
+	background-color:grey;
+}
+.innersquare{
+	display:none;
+}
