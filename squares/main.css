@@ -33,14 +33,6 @@
 	background-color: blue
 }
 
-.wrapper{
-	width:70%;
-	margin:auto;
- background-color:black;
-}
-.container{
-	background-color:grey;
-}
 .innersquare{
 	display:none;
 }
